@@ -1,3 +1,9 @@
+Covid Tracker
+
+Hosted url : https://main--indian-covid19-tracker.netlify.app/Home
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
