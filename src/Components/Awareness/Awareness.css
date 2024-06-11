@@ -1,0 +1,35 @@
+ /* Hover Zoomout */
+ .hover-zoomout a {
+    display: block;
+    position: relative;
+    overflow: hidden;
+  }
+  .hover-zoomout img {
+    width: 100%;
+    height: auto;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+  .hover-zoomout:hover img {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+.row img{
+  height: 250px;
+  width: 250px;
+  margin-bottom: 50px;
+}
+.imgbackground{
+  background-color: #808080;
+}

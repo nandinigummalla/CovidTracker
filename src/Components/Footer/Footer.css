@@ -1,0 +1,27 @@
+#footer {
+    background: #2d302f;
+  }
+  #footer h5{
+  padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    /* padding-bottom: 6px;
+    margin-bottom: 20px; */
+    color:#ffffff;
+  }
+  #footer ul.social li{
+  padding: 3px 0;
+  }
+  #footer ul.social li a i {
+    margin-right: 5px;
+  font-size:25px;
+  }
+  #footer ul.social li:hover a i {
+  font-size:30px;
+  margin-top:-10px;
+  }
+  #footer ul.social li a{
+  color:#ffffff;
+  }
+  #footer ul.social li a:hover{
+  color:#eeeeee;
+  }
