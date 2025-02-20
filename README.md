@@ -1,6 +1,6 @@
 Covid Tracker
 
-Hosted url : https://main--indian-covid19-tracker.netlify.app/Home
+Hosted url : [https://main--indian-covid19-tracker.netlify.app/Home](https://main--indian-covid19-tracker.netlify.app/)
 
 
 
